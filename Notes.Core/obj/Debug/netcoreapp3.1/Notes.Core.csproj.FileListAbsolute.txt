@@ -1,0 +1,12 @@
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csproj.AssemblyReference.cache
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.AssemblyInfoInputs.cache
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.AssemblyInfo.cs
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csproj.CoreCompileInputs.cache
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.deps.json
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.dll
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.Core.pdb
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.csproj.CopyComplete
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.dll
+C:\Users\hm\Desktop\NotesProject\Notes.WebApi\Notes.Core\obj\Debug\netcoreapp3.1\Notes.Core.pdb
