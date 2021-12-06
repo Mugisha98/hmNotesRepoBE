@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.Core\\Notes.Core.csproj": {}
+    "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.Core\\Notes.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.Core\\Notes.Core.csproj": {
+    "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.Core\\Notes.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.Core\\Notes.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.Core\\Notes.Core.csproj",
         "projectName": "Notes.Core",
-        "projectPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.Core\\Notes.Core.csproj",
+        "projectPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.Core\\Notes.Core.csproj",
         "packagesPath": "C:\\Users\\hm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.Core\\obj\\",
+        "outputPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\Notes.DB.csproj": {
-                "projectPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\Notes.DB.csproj"
+              "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\Notes.DB.csproj": {
+                "projectPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\Notes.DB.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\Notes.DB.csproj": {
+    "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\Notes.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\Notes.DB.csproj",
+        "projectUniqueName": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\Notes.DB.csproj",
         "projectName": "Notes.DB",
-        "projectPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\Notes.DB.csproj",
+        "projectPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\Notes.DB.csproj",
         "packagesPath": "C:\\Users\\hm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\obj\\",
+        "outputPath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hm\\AppData\\Roaming\\NuGet\\NuGet.Config",

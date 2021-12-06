@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5k7cjExI3b/vXqISPqX6VbkA+LE0rk5iwqsb7iw7zEWIWE0WBLfEEjf48ac+B1nWPf+tu3APPTrXpW72lD4ZnA==",
+  "dgSpecHash": "sXZLiwLFtRdrEm/nKEi7/9inNhM5uDAv1XU+pqZkRfOKALVIk4QvQT8rcwHoSC7j6tiUTs6MoEU02E2QhWggGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.DB\\Notes.DB.csproj",
+  "projectFilePath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.DB\\Notes.DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

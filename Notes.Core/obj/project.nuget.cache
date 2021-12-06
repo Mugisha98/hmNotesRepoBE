@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qAXRUrU/xMXjHmFE7PsyIrpg5XiVt48uRf8NZ8TvuL//rSrmf7wP0/tY9NzaM2kYIx0N+SOmxVwOGxSyafuJDg==",
+  "dgSpecHash": "Pw8psoYaNGT6gKn6mg2hb1Er2de69GCxlviPzUEuKV6dJ1KQVuYfQ0rVhQ8u6plK9TEeHWjRC+WUJYNnWjm1gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.Core\\Notes.Core.csproj",
+  "projectFilePath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.Core\\Notes.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hm\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hm\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

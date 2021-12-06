@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBPn33IGL4+n+tWLufVGmrAIn/yOkjIdxEQbsfc/V2CsB2JR14+ECs4nVWxwwuz4+Z7nnlqaaT4gx0EUZE/PdQ==",
+  "dgSpecHash": "NX5zMX3jpvO8sGaDCau66NXdAxZBQrzOld/qu+wBsuuPh0fNFrIUDCuDRT58iGv4pX2frQJcA3Szlgm7cB68tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.WebApi\\Notes.WebApi\\Notes.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\hm\\Desktop\\NotesProject\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
